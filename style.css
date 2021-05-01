@@ -1,0 +1,49 @@
+body 
+{
+    text-align: center;
+    background-color: greenyellow;
+    background-repeat: no-repeat; 
+    
+}
+
+h1
+{
+    text-shadow: 2px 2px # F8DD0;
+    Font-style: 20px ; 
+    
+}
+
+#section
+{
+padding - 20px;
+    font-size - 18
+    text-align : center;
+}
+
+
+img
+
+{
+    border-radius: 50%;
+    width: 500px
+    
+}
+
+
+    
+
+
+
+
+.menu a{
+    color:black !important; 
+}
+
+
+.link
+{ color:crimson; 
+    display: inline; 
+    padding-top:5px; 
+    padding-left:9px; 
+    padding-right:9px; 
+    padding-bottom: 5px; 
